@@ -42,7 +42,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/AutoQuest.git
+git clone https://github.com/mayurpatidar1401/AutoQuest.git
 cd AutoQuest
 
 Create virtual environment:
