@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+openpyxl
+pandas
+sentence-transformers
+chromadb
+pyyaml
+langchain
+langchain-community
+langchain-huggingface
+langchain-chroma
+ollama
+prompt-toolkit
